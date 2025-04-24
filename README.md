@@ -51,11 +51,6 @@ Three models were trained, and their performance was compared. The evaluation re
 - **Random Forest**: Excellent ability to capture nonlinear patterns and provide feature importance.
 - **XGBoost**: Top-tier model with optimal performance due to gradient boosting and overfitting control.
 
-### Visualization
-Comprehensive visualizations were created to compare model performance, including:
-- **Bar plots** of accuracy, precision, recall, and F1 score across models.
-- **Confusion Matrices** for each model to evaluate how they misclassify churn vs. non-churn customers.
-
 ## Business Impact
 
 The insights derived from this analysis can significantly impact eCommerce businesses in the following ways:
