@@ -1,6 +1,4 @@
 # Predictive-Analytics-for-Customer-Retention-ML-Models-to-Analyze-Churn-in-ECommerce-Platforms-25803
-# Predictive Analytics for Customer Retention: Machine Learning Models to Analyze and Mitigate Churn in ECommerce Platforms
-
 ## Project Overview
 
 This project focuses on building **machine learning models** to analyze customer churn and enhance retention strategies for **eCommerce platforms**. The goal is to identify customers who are at risk of leaving and develop predictive models to mitigate churn, ultimately helping businesses increase customer lifetime value and improve user satisfaction.
